@@ -1,10 +1,10 @@
 # TripScout - Bangkit Capstone Project
 
 # Design
-[![Figma](https://img.shields.io/badge/Figma-success)]([https://www.figma.com/file/XX8rOGgty7gRRNtktFIL9U/YourNey?node-id=0%3A1](https://www.figma.com/file/BDq6zzhthatikoYo50tvXi/Untitled?type=design&node-id=0%3A1&t=hBoM3zXUgbjgptmD-1))
+[![Figma](https://img.shields.io/badge/Figma-success)](https://www.figma.com/file/BDq6zzhthatikoYo50tvXi/Untitled?type=design&node-id=0%3A1&t=hBoM3zXUgbjgptmD-1)
 
 # Dataset
-[![Kaggle](https://img.shields.io/badge/Kaggle-blue)]([https://www.kaggle.com/datasets/restualambagaskara/wisata-semarangan])
+[![Kaggle](https://img.shields.io/badge/Kaggle-blue)](https://www.kaggle.com/datasets/restualambagaskara/wisata-semarangan)
 
 # Our Member
 |            Member           | Student ID |        Path        | University |
