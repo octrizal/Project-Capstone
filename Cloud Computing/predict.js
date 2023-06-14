@@ -24,7 +24,7 @@ async function predictImage(imagePath) {
   const bucket = storage.bucket(bucketName);
   const file = bucket.file(imagePath);
   // Load the model locally
-  const modelPath = "./Model/model.json";
+  const modelPath = "../Machine Learning/Model/model.json";
   const model = await tf.loadLayersModel(`file://${modelPath}`);
 
   // Read and prepare the image
