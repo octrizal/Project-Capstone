@@ -1,4 +1,4 @@
-Untuk membuat API untuk mengunggah gambar dan mendapatkan data dari penyimpanan awan (cloud storage bucket) menggunakan Express dan Node.js, dan database mysql.
+![WhatsApp Image 2023-06-16 at 12 11 48](https://github.com/octrizal/Project-Capstone/assets/96968769/f4569924-90a2-4472-8484-0a4988223ab7)Untuk membuat API untuk mengunggah gambar dan mendapatkan data dari penyimpanan awan (cloud storage bucket) menggunakan Express dan Node.js, dan database mysql.
 Penggunaan Model ML diakses juga melalui express.
 
 Siapkan proyek Node.js:
@@ -48,6 +48,9 @@ https://geometric-ocean-389205.et.r.appspot.com/
   - Status: 302 Found
   - Headers:
     - Location: /wisata/:prediction
+      contoh
+      ![WhatsApp Image 2023-06-16 at 12 11 48](https://github.com/octrizal/Project-Capstone/assets/96968769/80919f7c-6d53-4aa6-b201-e82ad9b679b1)
+
 
 #### POST /wisata/:id/komentar
 - Description: Adds a comment and rating for a specific tourist attraction.
